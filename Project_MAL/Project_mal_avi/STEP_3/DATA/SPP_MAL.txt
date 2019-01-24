@@ -1,0 +1,32 @@
+species	Host_Status	continent	country	Migratory_Status
+Turdus abyssinicus	Resident	Africa	Malawi	Tropical_resident
+Turdus albicollis	Resident	South America	Brazil	Tropical_resident
+Turdus amaurochalinus	Resident	South America	Brazil	Tropical_resident
+Turdus cardis	Migratory	Asia	Japan	Migratory
+Turdus chrysolaus	 	Asia	Russia	Migratory
+Turdus falcklandii	Resident	South America	Chile	Tropical_resident
+Turdus flavipes	Resident	South America	Colombia	Tropical_resident
+Turdus fumigatus	Resident	South America	Brazil	Tropical_resident
+Turdus fuscater	Resident	South America	Colombia	Tropical_resident
+Turdus hauxwelli	Resident	South America	Peru	Tropical_resident
+Turdus iliacus	Migratory	Europe	Sweden	Migratory
+Turdus leucomelas	Resident	South America	Brazil	Tropical_resident
+Turdus libonyana	Resident	Africa	Malawi	Tropical_resident
+Turdus merula	Resident	Europe	Italy	Temperate_resident
+Turdus migratorius	Migratory	North America	United States	Migratory
+Turdus mupinensis	Migratory	Asia	China	Migratory
+Turdus naumanni	Migratory	Asia	Japan	Migratory
+Turdus nigriceps	Resident	South America	Ecuador	Tropical_resident
+Turdus obscurus	 	Asia	Russia	Migratory
+Turdus olivaceofuscus	Resident	Africa	Sao Tome and Pri­ncipe	Tropical_resident
+Turdus olivater	Resident	South America	Colombia	Tropical_resident
+Turdus pallidus	Migratory	Asia	Japan	Migratory
+Turdus pelios	Resident	Africa	Equatorial Guinea	Tropical_resident
+Turdus philomelos	Migratory	Europe	Germany	Migratory
+Turdus pilaris	Migratory	Europe	Sweden	Migratory
+Turdus rubrocanus	Migratory	Asia	China	Migratory
+Turdus rufiventris	Resident	South America	Brazil	Tropical_resident
+Turdus serranus	Resident	South America	Ecuador	Tropical_resident
+Turdus torquatus	 	Europe	Bulgaria	Migratory
+Turdus unicolor	Migratory	Asia	India	Migratory
+Turdus viscivorus	Resident	Africa	Morocco	Temperate_resident

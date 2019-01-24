@@ -1,0 +1,342 @@
+#no	Lineage_Name	Alt_Lineage_Name	parasiteGenus	order	family	genus	species	subspecies	Host_Status	Host_Age	Host_Environment	continent	country	region	site	coordinates	found	tested	Reference_Name	comment
+284	AFR103	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus abyssinicus	 	Resident	 	Wild	Africa	Malawi	Rumphi (Rumpil)	Nyika National Park	-10°35.30700', 033°48.67000'	1	4	Lutz et al 2015	Host_Collection_Number: 468127
+466	AFR236	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus abyssinicus	 	Resident	 	Wild	Africa	Malawi	Rumphi (Rumpil)	Nyika National Park	-10°35.30700', 033°48.67000'	1	4	Lutz et al 2015	Host_Collection_Number: 468127
+479	AFR248	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus abyssinicus	 	Resident	 	Wild	Africa	Malawi	Rumphi (Rumpil)	Nyika National Park	-10°35.30700', 033°48.67000'	1	4	Lutz et al 2015	Host_Collection_Number: 468130
+481	AFTRU06	WAH32	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Gabon	 	 	 	 	 	Beadell et al 2009	 
+482	AFTRU07	WA36	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Gabon	 	 	 	 	 	Beadell et al 2009	 
+483	AFTRU08	WA38	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Cameroon	 	 	 	 	 	Beadell et al 2009	 
+484	AFTRU09	WA40	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Cameroon	 	 	 	 	 	Beadell et al 2009	 
+485	AFTRU09	P_AFTRU09	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	Resident	Unknown	Wild	Africa	Equatorial Guinea	 	Bioko Island	03°30.00000', 008°41.45000'	 	 	Loiseau et al 2017	 
+486	AFTRU1	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Nigeria	 	 	 	 	 	Hellgren et al 2007b	 
+487	AFTRU1	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Nigeria	 	 	 	 	 	Hellgren et al 2007b	 
+488	AFTRU2	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Nigeria	 	 	 	 	 	Hellgren et al 2007b	 
+489	AFTRU2	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Nigeria	 	 	 	 	 	Hellgren et al 2007b	 
+490	AFTRU3	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Nigeria	 	 	 	 	 	Hellgren et al 2007b	 
+491	AFTRU3	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Nigeria	 	 	 	 	 	Hellgren et al 2007b	 
+492	AFTRU4	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Nigeria	 	 	 	 	 	Hellgren et al 2007b	 
+493	AFTRU4	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Cameroon	 	 	 	 	 	Hellgren et al 2007b	 
+494	AFTRU4	WA37	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Gabon	 	 	 	 	 	Beadell et al 2009	 
+495	AFTRU4	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus libonyana	 	Resident	 	Wild	Africa	Malawi	Rumphi (Rumpil)	Vwaza Wildlife Reserve	-11°08.03300', 033°39.30700'	1	3	Lutz et al 2015	Host_Collection_Number: 468123
+496	AFTRU4	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus libonyana	 	Resident	 	Wild	Africa	Malawi	Rumphi (Rumpil)	Vwaza Wildlife Reserve	-11°08.03300', 033°39.30700'	1	3	Lutz et al 2015	Host_Collection_Number: 468126
+497	AFTRU4	P_AFTRU4	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	Resident	Unknown	Wild	Africa	Gabon	 	 	 	 	 	Loiseau et al 2017	 
+498	AFTRU5	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Nigeria	 	 	 	 	 	Hellgren et al 2007b	 
+500	AFTRU5	WA39	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	 	 	Wild	Africa	Cameroon	 	 	 	 	 	Beadell et al 2009	 
+504	AFTRU5	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Europe	Italy	 	 	 	1	73	Martinez-de la Puente et al 2015	in mosquito blood meals
+505	AFTRU5	P_AFTRU5	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	Resident	Unknown	Wild	Africa	Equatorial Guinea	 	Bioko Island	03°30.00000', 008°41.45000'	 	 	Loiseau et al 2017	 
+507	AFTRU5	H237	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	 	 	1	13	Mata et al 2015	 
+508	AFTRU5	H237	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Europe	Portugal	 	 	 	5	60	Mata et al 2015	 
+509	AFTRU5	T	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Unknown	Wild	North America	United States	Nebraska	Platte River	40°48.00000', -098°26.00000'	1	1	Levin et al 2016	 
+511	AFTRU5	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus unicolor	 	Migratory	Unknown	Wild	Asia	India	Uttarakhand	Dehradun	30°10.44540', 077°46.54950'	1	1	Ishtiaq et al 2017	 
+643	ANLAT12	ANLA3	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Migratory	Unknown	Wild	Europe	Germany	 	Mooswald Forest	48º00.00000', 007º51.00000'	1	12	Santiago-Alarcon et al 2016	 
+701	APSPI01	ChH6,ChL1	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	 	 	Wild	South America	Chile	 	 	 	 	 	Merino et al 2008	 
+1022	BT7	Rinchi-2	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pallidus	 	 	 	Wild	Asia	Japan	 	 	 	1	2	Kim et al 2009a	 
+1029	BT7	P43	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	 	 	Wild	North America	United States	Alaska	Anchorage	61°09.00000', -149°10.00000'	1	17	Loiseau et al 2012a	 
+1048	BT7	P43,AMR.KGM64,P.AK01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Unknown	Wild	North America	United States	Alaska	Fairbanks	64°52.00000', -147°44.00000'	 	 	Oakgrove et al 2014	 
+1084	BT7	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	1	8	Galen et al unpubl	 
+1085	BT7	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Elliott Highway Mile 99	65°17.33940', -149°17.44980'	1	5	Galen et al unpubl	 
+1086	BT7	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Steese Highway Mile 35.8	65°09.80458', -147°19.27422'	3	9	Galen et al unpubl	 
+1276	CAP3	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus pilaris	 	 	 	Wild	Europe	Sweden	 	 	 	 	 	Hellgren et al 2008	 
+1358	CATMIN05	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Elliott Highway Mile 99	65°17.33940', -149°17.44980'	1	5	Galen et al unpubl	 
+1371	CATUST05	TFUS05	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	Resident	Unknown	Wild	South America	Colombia	Cundinamarca	Bosque Palacio	04°41.00000' , -073°50.00000' 	1	1	Gonzalez et al 2015	 
+1373	CATUST05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Steese Highway Mile 35.8	65°09.80458', -147°19.27422'	1	9	Galen et al unpubl	 
+1375	CATUST05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Unknown	Unknown	Wild	North America	United States	Michigan	 	 	 	 	Smith et al 2017	 
+1392	CATUST06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Unknown	Unknown	Wild	North America	United States	Michigan	 	 	 	 	Smith et al 2017	 
+1450	CATUST22	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Elliott Highway Mile 99	65°17.33940', -149°17.44980'	1	5	Galen et al unpubl	 
+1973	COLBF28	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	2	8	Galen et al unpubl	 
+1974	COLBF28	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway Corkscrew Creek	63°02.32860', -147°00.22320'	1	2	Galen et al unpubl	 
+1975	COLBF32	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	1	8	Galen et al unpubl	 
+2087	COLL2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus mupinensis	 	Migratory	 	Wild	Asia	China	Gansu	 	 	1	4	Zehtindjiev et al 2013	 
+2102	COLL2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	1	8	Galen et al unpubl	 
+2364	CRIRUF01	H_CRIRUF01	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	São Tomé	 	 	 	 	Loiseau et al 2017	 
+2379	CUKI1	H241	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus viscivorus	 	Resident	Adult	Wild	Africa	Morocco	 	 	 	2	4	Mata et al 2015	 
+2815	DENPET03	DENPET03	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Brasilandia de Minas	-17°01.00000', -045°54.00000'	1	 	Lacorte et al 2013	 
+2816	DENPET03	DENPET03	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	 	 	Wild	South America	Brazil	 	Salto da Divisa	-15°59.00000', -039°57.00000'	1	 	Lacorte et al 2013	 
+2853	DENPET03	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus hauxwelli	 	Resident	Unknown	Wild	South America	Peru	 	CICRA	-12°34.00000', -070°05.00000'	 	 	Fecchio et al 2017a	 
+2860	DENPET03	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus hauxwelli	 	Resident	Unknown	Wild	South America	Peru	 	CICRA	-12°34.00000', -070°05.00000'	 	 	Fecchio et al 2017a	 
+2869	DENPET03	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Unknown	Unknown	Wild	North America	United States	Michigan	 	 	 	 	Smith et al 2017	 
+2967	ELALB02	ChP4	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	 	 	Wild	South America	Chile	 	 	 	 	 	Merino et al 2008	 
+3325	GLYSPI06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	Resident	Adult	Wild	South America	Brazil	 	Jauru	-14°52.00000', -059°00.00000'	 	 	Fecchio et al 2017b	 
+3329	GLYSPI06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	Resident	Unknown	Wild	South America	Brazil	 	COM	-13°48.00000', -059°41.00000'	 	 	Fecchio et al 2017a	 
+3338	GLYSPI06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	Resident	Unknown	Wild	South America	Brazil	 	COM	-13°48.00000', -059°41.00000'	 	 	Fecchio et al 2017a	 
+3339	GLYSPI06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	Resident	Unknown	Wild	South America	Brazil	 	COM	-13°48.00000', -059°41.00000'	 	 	Fecchio et al 2017a	 
+3628	GRW06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Oceania	New Zealand	 	 	 	 	 	Pérez-Tris et al 2007	 
+3629	GRW06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	 	 	Wild	Oceania	New Zealand	 	 	 	 	 	Pérez-Tris et al 2007	 
+3655	GRW06	NZBrk,NZSIV,NZTM1	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Oceania	New Zealand	 	 	 	1	7	Howe et al 2012	 
+3663	GRW06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Oceania	New Zealand	 	 	 	2	44	Ewen et al 2012	 
+3664	GRW06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	 	 	Wild	Oceania	New Zealand	 	 	 	5	19	Ewen et al 2012	 
+3667	GRW06	GRW06	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Jequitinhonha	-16°26.00000', -041°00.00000'	1	 	Lacorte et al 2013	 
+3670	GRW06	GRW06	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Aracruz	-19°49.00000', -040°16.00000'	1	 	Lacorte et al 2013	 
+3690	GRW06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Oceania	New Zealand	 	Nelson Lakes National Park	-41°48.10000', 172°51.95000'	1	31	Niebuhr et al 2016	 
+4118	HAWF6	H152	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	 	 	1	60	Mata et al 2015	 
+4385	ICTCAY02	39,40	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	 	 	Wild	South America	Uruguay	 	 	 	 	 	Durrant et al 2006	 
+4398	ILABY01	H_ILABY01	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus pelios	 	Resident	Unknown	Wild	Africa	Equatorial Guinea	 	Bioko Island	03°30.00000', 008°41.45000'	 	 	Loiseau et al 2017	 
+4453	LAIRI01	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	New Mexico	El Malpais Conservation Area	34°50.00000', -108°09.00000'	2	2	Marroquin-Flores unpub	 
+4545	LEPCOR04	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus hauxwelli	 	Resident	Unknown	Wild	South America	Peru	 	CICRA	-12°34.00000', -070°05.00000'	 	 	Fecchio et al 2017a	 
+4586	LINN1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Europe	Portugal	Azores	Sao Miguel	37°42.00000', -025°30.00000'	4	47	Hellgren et al 2011	 
+4588	LINN1	NZGSK,NZTM2	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Oceania	New Zealand	 	 	 	1	7	Howe et al 2012	 
+4591	LINN1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Oceania	New Zealand	 	 	 	6	44	Ewen et al 2012	 
+4592	LINN1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	 	 	Wild	Oceania	New Zealand	 	 	 	4	19	Ewen et al 2012	 
+4596	LINN1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Europe	Italy	 	 	 	6	73	Martinez-de la Puente et al 2015	in mosquito blood meals
+4600	LINN1	H144	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Europe	Portugal	 	 	 	6	60	Mata et al 2015	 
+4602	LINN1	H144	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Resident	Juvenile	Wild	Europe	Portugal	 	 	 	1	4	Mata et al 2015	 
+4604	LINN1	LINN1	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Migratory	Unknown	Wild	Europe	Germany	 	Mooswald Forest	48º00.00000', 007º51.00000'	2	21	Santiago-Alarcon et al 2016	 
+4606	LINN1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Oceania	New Zealand	 	Nelson Lakes National Park	-41°48.10000', 172°51.95000'	11	31	Niebuhr et al 2016	 
+4607	LINN1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Resident	Unknown	Wild	Oceania	New Zealand	 	Nelson Lakes National Park	-41°48.10000', 172°51.95000'	5	11	Niebuhr et al 2016	 
+4608	LINN1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Unknown	Unknown	Wild	North America	United States	Michigan	 	 	 	 	Smith et al 2017	 
+4833	METYR01	L_METHY_ 02,L_TFUS_11	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	 	 	Wild	South America	Colombia	 	Monteredondo station	04°37.00000′, -073°43.00000′	 	 	Matta et al 2014a	 
+4904	MTUR1	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus viscivorus	 	 	 	Wild	Europe	Sweden	 	 	 	 	 	Hellgren et al 2008	 
+4905	MTUR2	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus viscivorus	 	 	 	Wild	Europe	Sweden	 	 	 	 	 	Hellgren et al 2008	 
+4982	MYIFLA02	SPOW6	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus flavipes	 	Resident	Unknown	Wild	South America	Colombia	 	Sierra Nevada de Santa Marta	10°45.00000', -073°40.00000'	1	2	Gonzales-Quevedo et al 2016	 
+5040	MYRLEU01	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus hauxwelli	 	Resident	Unknown	Wild	South America	Peru	 	CICRA	-12°34.00000', -070°05.00000'	 	 	Fecchio et al 2017a	 
+5419	PADOM09	P11	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	 	 	Wild	South America	Uruguay	 	 	 	 	 	Beadell et al 2006	 
+5428	PADOM09	6	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	 	 	Wild	South America	Uruguay	 	 	 	 	 	Durrant et al 2006	 
+5508	PADOM11	Pla_bird_sp_10,Pla_bird_sp_12,Pla_bird_sp_14	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus fumigatus	 	 	 	Wild	Unknown	Unknown Country	 	 	 	 	 	Outlaw & Ricklefs 2009	 
+5539	PADOM11	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Steese Highway Mile 35.8	65°09.80458', -147°19.27422'	1	9	Galen et al unpubl	 
+5741	PARUS1	H022	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Asia	Armenia	 	Artavaz	40°36.60000', 044°34.80000'	1	2	Drovetski et al 2014	 
+6450	POEATR01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway Corkscrew Creek	63°02.32860', -147°00.22320'	1	2	Galen et al unpubl	 
+6836	RFF1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus abyssinicus	 	Resident	 	Wild	Africa	Malawi	Rumphi (Rumpil)	Nyika National Park	-10°35.30700', 033°48.67000'	1	4	Lutz et al 2015	Host_Collection_Number: 468128
+7080	SEIAUR01	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Steese Highway Mile 35.8	65°09.80458', -147°19.27422'	1	9	Galen et al unpubl	 
+7583	SGS1	H011	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus viscivorus	 	Resident	Adult	Wild	Africa	Morocco	 	Azrou	33°24.00000', -005°12.60000'	1	2	Drovetski et al 2014	 
+7605	SGS1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Europe	Italy	 	 	 	1	73	Martinez-de la Puente et al 2015	in mosquito blood meals
+7632	SGS1	H011,H174	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus viscivorus	 	Resident	Adult	Wild	Africa	Morocco	 	 	 	1	4	Mata et al 2015	 
+7868	SPMAG06	TRJB16	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	Resident	Unknown	Wild	South America	Brazil	Minas Gerais	Juiz de Fora	-21°43.00000', -043°22.00000'	 	 	Tostes et al 2018	 
+7967	STUR1	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	 	 	Wild	Europe	Lithuania	 	 	 	 	 	Hellgren et al 2007b	 
+7968	STUR1	H376	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Resident	Adult	Wild	Europe	Portugal	 	 	 	1	4	Mata et al 2015	 
+7970	STUR1	STUR1	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Migratory	Unknown	Wild	Europe	Germany	 	Mooswald Forest	48º00.00000', 007º51.00000'	3	12	Santiago-Alarcon et al 2016	 
+8176	SYAT05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	 	 	Wild	North America	United States	 	 	 	 	 	Martinsen et al 2007	 
+8177	SYAT05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	 	 	Wild	North America	United States	Vermont	 	 	 	 	Martinsen et al 2008	 
+8178	SYAT05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Oceania	New Zealand	 	 	 	 	 	Hellgren et al unpubl 3	 
+8180	SYAT05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Europe	Bulgaria	 	 	 	4	4	Dimitrov et al 2010	 
+8184	SYAT05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Europe	Portugal	Azores	Sao Miguel	37°42.00000', -025°30.00000'	21	47	Hellgren et al 2011	 
+8194	SYAT05	NZKer,NZTM6,NZTM4	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Oceania	New Zealand	 	 	 	5	7	Howe et al 2012	 
+8197	SYAT05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Oceania	New Zealand	 	 	 	17	44	Ewen et al 2012	 
+8206	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Armenia	 	Kaler	39°04.20000', 046°16.20000'	1	3	Drovetski et al 2014	 
+8207	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Armenia	 	Meghri	38°54.00000', 046°14.40000'	1	3	Drovetski et al 2014	 
+8208	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	Ait Mannsour	31°28.20000', -007°22.80000'	1	1	Drovetski et al 2014	 
+8209	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	Azrou	33°24.00000', -005°12.60000'	3	3	Drovetski et al 2014	 
+8210	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	Derdara	35°07.20000', -005°18.00000'	2	2	Drovetski et al 2014	 
+8211	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	Imi-n-Ifni	31°43.20000', -006°58.20000'	2	3	Drovetski et al 2014	 
+8212	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Africa	Morocco	 	Meknes	33°54.00000', -005°33.00000'	1	2	Drovetski et al 2014	 
+8213	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	Tajgalt	30°45.60000', -008°26.40000'	1	1	Drovetski et al 2014	 
+8214	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	Barragem Santa Maria de Aguiar	40°51.00000', -006°54.00000'	8	10	Drovetski et al 2014	 
+8215	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Europe	Portugal	 	Buçaco	40°22.20000', -008°21.60000'	2	4	Drovetski et al 2014	 
+8216	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	Choupal	40°13.20000', -008°27.00000'	2	3	Drovetski et al 2014	 
+8217	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Europe	Portugal	 	Choupal	40°13.20000', -008°27.00000'	4	5	Drovetski et al 2014	 
+8218	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Europe	Portugal	 	Grada	40°18.00000', -008°28.20000'	14	16	Drovetski et al 2014	 
+8219	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	Mata do Camarido	41°51.60000', -008°51.60000'	2	4	Drovetski et al 2014	 
+8220	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	Mindelo	41°19.20000', -008°43.80000'	1	1	Drovetski et al 2014	 
+8221	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Europe	Portugal	 	Mindelo	41°19.20000', -008°43.80000'	6	9	Drovetski et al 2014	 
+8222	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	Ponte Romana	41°47.40000', -007°45.00000'	1	2	Drovetski et al 2014	 
+8223	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	Sendim da Ribeira	41°19.20000', -006°55.20000'	1	2	Drovetski et al 2014	 
+8224	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Russia	Krasnodarskiy Kray	Perevalka	44°03.60000', 040°43.80000'	2	6	Drovetski et al 2014	 
+8225	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Asia	Russia	Krasnodarskiy Kray	Perevalka	44°03.60000', 040°43.80000'	3	10	Drovetski et al 2014	 
+8226	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Resident	Juvenile	Wild	Europe	Portugal	 	Choupal	40°13.20000', -008°27.00000'	1	1	Drovetski et al 2014	 
+8227	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus viscivorus	 	Resident	Adult	Wild	Africa	Morocco	 	Azrou	33°24.00000', -005°12.60000'	1	2	Drovetski et al 2014	 
+8229	SYAT05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Europe	Italy	 	 	 	42	73	Martinez-de la Puente et al 2015	in mosquito blood meals
+8232	SYAT05	P_SYAT05	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	Resident	Unknown	Wild	Africa	Gabon	 	 	 	 	 	Loiseau et al 2017	 
+8233	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	 	 	10	13	Mata et al 2015	 
+8234	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus viscivorus	 	Resident	Adult	Wild	Africa	Morocco	 	 	 	1	4	Mata et al 2015	 
+8235	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult + Juvenile	Wild	Europe	Portugal	 	 	 	41	60	Mata et al 2015	 
+8237	SYAT05	H235	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Resident	Juvenile	Wild	Europe	Portugal	 	 	 	1	4	Mata et al 2015	 
+8242	SYAT05	LIN3	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Migratory	Unknown	Wild	Europe	Germany	 	Mooswald Forest	48º00.00000', 007º51.00000'	7	21	Santiago-Alarcon et al 2016	 
+8243	SYAT05	LIN3	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Migratory	Unknown	Wild	Europe	Germany	 	Mooswald Forest	48º00.00000', 007º51.00000'	3	12	Santiago-Alarcon et al 2016	 
+8244	SYAT05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Oceania	New Zealand	 	Nelson Lakes National Park	-41°48.10000', 172°51.95000'	2	31	Niebuhr et al 2016	 
+8248	SYAT05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Unknown	Unknown	Wild	North America	United States	Michigan	 	 	 	 	Smith et al 2017	 
+8251	SYAT05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Iran	Khorasan	 	 	1	 	Nourani et al 2018	 
+8320	SYAT32	SYAT32	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Migratory	Unknown	Wild	Europe	Germany	 	Mooswald Forest	48º00.00000', 007º51.00000'	1	12	Santiago-Alarcon et al 2016	 
+8627	TFUS01	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	 	 	Wild	South America	Colombia	 	Chingaza NNP, Monterredondo	04°37.34100', -073°44.30500'	1	8	Lotta et al 2013	 
+8628	TFUS02	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	 	 	Wild	South America	Colombia	 	Chingaza NNP, Monterredondo	04°37.34100', -073°44.30500'	1	8	Lotta et al 2013	 
+8629	TFUS03	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	 	 	Wild	South America	Colombia	 	Chingaza NNP, Monterredondo	04°37.34100', -073°44.30500'	1	8	Lotta et al 2013	 
+8630	TFUS04	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	 	 	Wild	South America	Colombia	 	Chingaza NNP, Monterredondo	04°37.34100', -073°44.30500'	1	8	Lotta et al 2013	 
+8631	TFUS05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	 	 	Wild	South America	Colombia	 	Universidad Nacional de Colombia-Bogota	04°38.00000', -074°05.0000' 	2	37	Mantilla et al 2013a	 
+8632	TFUS06	ADG-2013 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	 	 	Wild	South America	Colombia	 	Universidad Nacional de Colombia-Bogota	04°38.00000', -074°05.0000' 	13	44	Mantilla et al 2013b	 
+8633	TFUS06	TFUS06	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	Resident	Unknown	Wild	South America	Colombia	Risaralda	El Bosque	04°43.00000', -075°27.00000'	1	1	Gonzalez et al 2015	 
+8634	TFUS07	L_TFUS_07	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	 	 	Wild	South America	Colombia	 	Monteredondo station	04°37.00000′, -073°43.00000′	 	 	Matta et al 2014a	 
+8635	TFUS12	L_TFUS_06	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	 	 	Wild	South America	Colombia	 	Monteredondo station	04°37.00000′, -073°43.00000′	 	 	Matta et al 2014a	 
+8636	TFUS13	L_TFUS_13 ,L_TFUS_13	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus fuscater	 	Resident	Unknown	Wild	South America	Colombia	 	 	 	 	 	Lotta et al 2016	 
+8738	THASAT06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus fumigatus	 	Resident	Unknown	Wild	South America	Brazil	 	TapajosIL	-04°30.00000', -056°16.00000'	 	 	Fecchio et al 2017a	 
+8740	THASAT06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus fumigatus	 	Resident	Unknown	Wild	South America	Brazil	 	TapajosIL	-04°30.00000', -056°16.00000'	 	 	Fecchio et al 2017a	 
+8927	TROAED20	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus nigriceps	 	Resident	Unknown	Wild	South America	Ecuador	 	Podocarpus NP	-04°14.06700', -079°10.39900'	1	12	Moens et al 2016	Numbers positive by microscopy: 0
+8928	TROAED20	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus serranus	 	Resident	Unknown	Wild	South America	Ecuador	 	Podocarpus NP	-04°14.06700', -079°10.39900'	1	11	Moens et al 2016	Numbers positive by microscopy: 0
+8958	TUAMA01	TUAMA01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus albicollis	 	 	 	Wild	South America	Brazil	 	Bocaiuva	-17°23.00000', -043°53.00000'	2	 	Lacorte et al 2013	 
+8959	TUAMA01	TUAMA01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	 	 	Wild	South America	Brazil	 	Salto da Divisa	-15°59.00000', -039°57.00000'	1	 	Lacorte et al 2013	 
+8960	TUAMA01	TUAMA01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	 	 	Wild	South America	Brazil	 	Bocaiuva	-17°23.00000', -043°53.00000'	1	 	Lacorte et al 2013	 
+8961	TUAMA01	TUAMA01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	 	 	Wild	South America	Brazil	 	Jequitinhonha	-16°26.00000', -041°00.00000'	1	 	Lacorte et al 2013	 
+8962	TUAMA01	TUAMA01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	 	 	Wild	South America	Brazil	 	Manga	-14°44.00000', -043°51.00000'	1	 	Lacorte et al 2013	 
+8963	TUAMA01	TUAMA01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Aracruz	-19°49.00000', -040°16.00000'	1	 	Lacorte et al 2013	 
+8964	TUAMA01	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	Resident	Unknown	Wild	South America	Brazil	 	CHU	-12°13.00000', -060°44.00000'	 	 	Fecchio et al 2017a	 
+8965	TUAMA01	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	Resident	Unknown	Wild	South America	Brazil	 	COM	-13°48.00000', -059°41.00000'	 	 	Fecchio et al 2017a	 
+8966	TUAMA01	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	Resident	Adult	Wild	South America	Brazil	 	Mata Seca State Park	-14°50.91100', 043°59.29800'	1	9	Ferreira et al 2017	 
+8967	TUCAR01	H-LIN3	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus cardis	 	 	 	Wild	Asia	Korea, South	 	 	 	 	 	Ishtiaq et al 2007	 
+8968	TUCAR02	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus cardis	 	Migratory	Unknown	Captivity	Asia	Japan	 	Gyotoku Wild Bird Hospital	35°40.10030’, 139°54.94480'	1	1	Inumaru et al 2017	injured and rescued wild birds
+8969	TUCHR01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus chrysolaus	 	 	 	Wild	Asia	Russia	Sakhalinskaya Oblast'	Sakhalin Island	47º04.00000', 142º58.00000'	1	1	Palinauskas et al 2013	 
+8970	TUCHR01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus iliacus	 	 	 	Wild	Asia	Russia	Sverdlovskaya Oblast'	Ural Mountains	57°20.00000', 059°49.00000'	2	4	Palinauskas et al 2013	 
+8971	TUCHR01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	 	 	Wild	Asia	Russia	Sverdlovskaya Oblast'	Ural Mountains	57°20.00000', 059°49.00000'	2	6	Palinauskas et al 2013	 
+8972	TUCHR01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus pilaris	 	 	 	Wild	Asia	Russia	Sverdlovskaya Oblast'	Ural Mountains	57°20.00000', 059°49.00000'	4	13	Palinauskas et al 2013	 
+8973	TUCHR01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus mupinensis	 	Migratory	 	Wild	Asia	China	Gansu	 	 	1	4	Zehtindjiev et al 2013	 
+8974	TUCHR01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus iliacus	 	Migratory	Juvenile	Wild	Europe	Sweden	 	Kvismaren	59°10.00000', 015°25.00000'	1	1	Nilsson et al 2016	 
+8975	TUCHR01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus cardis	 	Migratory	Unknown	Captivity	Asia	Japan	 	Gyotoku Wild Bird Hospital	35°40.10030’, 139°54.94480'	1	1	Inumaru et al 2017	injured and rescued wild birds; same individual as TUCAR02
+8976	TUCHR01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus pallidus	 	Migratory	Unknown	Wild	Asia	Japan	Okinawa	 	 	 	 	Murata et al unpubl	 
+8977	TUFAL01	ChL9	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	 	 	Wild	South America	Chile	 	 	 	 	 	Merino et al 2008	 
+8978	TUFAL01	ChL9	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	Resident	Unknown	Wild	South America	Chile	 	Robinson Crusoe Island	-33°28.00000', -078°50.00000'	4	8	Martinez et al 2015	 
+8979	TUFAL02	ChL4	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	 	 	Wild	South America	Chile	 	 	 	 	 	Merino et al 2008	 
+8980	TUFAL03	ChL10	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	 	 	Wild	South America	Chile	 	 	 	 	 	Merino et al 2008	 
+8981	TUFAL04	JFL1	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	Resident	Unknown	Wild	South America	Chile	 	Robinson Crusoe Island	-33°28.00000', -078°50.00000'	4	8	Martinez et al 2015	 
+8982	TUFAL05	JFL2	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	Resident	Unknown	Wild	South America	Chile	 	Robinson Crusoe Island	-33°28.00000', -078°50.00000'	2	8	Martinez et al 2015	 
+8983	TUFAL06	JFL3	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	Resident	Unknown	Wild	South America	Chile	 	Robinson Crusoe Island	-33°28.00000', -078°50.00000'	2	8	Martinez et al 2015	 
+8985	TULEU01	TULEU01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	 	 	Wild	South America	Brazil	 	Jequitinhonha	-16°26.00000', -041°00.00000'	1	 	Lacorte et al 2013	 
+8986	TULEU01	TULEU01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Caratinga	-19°47.00000', -042°08.00000'	1	 	Lacorte et al 2013	 
+8987	TULEU01	TULEU01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Felixlandia	-18°43.00000', -045°03.00000'	4	 	Lacorte et al 2013	 
+8988	TULEU01	TULEU01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Jequitinhonha	-16°26.00000', -041°00.00000'	1	 	Lacorte et al 2013	 
+8989	TULEU01	TULEU01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Brasilandia de Minas	-17°01.00000', -045°54.00000'	2	 	Lacorte et al 2013	 
+8992	TULEU02	TULEU02	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Caratinga	-19°47.00000', -042°08.00000'	1	 	Lacorte et al 2013	 
+8993	TULEU02	TULEU02	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Felixlandia	-18°43.00000', -045°03.00000'	1	 	Lacorte et al 2013	 
+8994	TULEU03	TULEU03	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Felixlandia	-18°43.00000', -045°03.00000'	3	 	Lacorte et al 2013	 
+8995	TULEU03	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	Resident	Adult	Wild	South America	Brazil	 	Jauru	-14°52.00000', -059°00.00000'	 	 	Fecchio et al 2017b	 
+8996	TULEU04	TULEU04	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Felixlandia	-18°43.00000', -045°03.00000'	2	 	Lacorte et al 2013	 
+8997	TULEU05	TULEU05	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Felixlandia	-18°43.00000', -045°03.00000'	1	 	Lacorte et al 2013	 
+8999	TULEU06	TULEU06	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Jequitinhonha	-16°26.00000', -041°00.00000'	1	 	Lacorte et al 2013	 
+9000	TULEU06	TULEU06	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Bocaiuva	-17°23.00000', -043°53.00000'	2	 	Lacorte et al 2013	 
+9001	TULEU06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	Resident	Adult	Wild	South America	Brazil	 	Jauru	-14°52.00000', -059°00.00000'	 	 	Fecchio et al 2017b	 
+9002	TULEU06	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	Resident	Unknown	Wild	South America	Brazil	 	Cerrado	-15°32.00000', -047°33.00000'	 	 	Fecchio et al 2017a	 
+9003	TULEU06	TLSB1096,TLJB34	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	Resident	Unknown	Wild	South America	Brazil	Minas Gerais	Juiz de Fora	-21°43.00000', -043°22.00000'	 	 	Tostes et al 2018	 
+9004	TULEU07	TULEU07	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Felixlandia	-18°43.00000', -045°03.00000'	1	 	Lacorte et al 2013	 
+9005	TULEU07	TULEU07	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	 	 	Wild	South America	Brazil	 	Felixlandia	-18°43.00000', -045°03.00000'	1	 	Lacorte et al 2013	 
+9006	TULEU08	TULEU08	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	 	 	Wild	South America	Brazil	 	Jequitinhonha	-16°26.00000', -041°00.00000'	1	 	Lacorte et al 2013	 
+9007	TUMER01	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Europe	Portugal	Azores	 	 	 	 	Hellgren et al unpubl 2	 
+9009	TUMER01	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Europe	Portugal	Azores	Sao Miguel	37°42.00000', -025°30.00000'	5	47	Hellgren et al 2011	 
+9010	TUMER01	H139,H236	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	 	 	4	13	Mata et al 2015	 
+9011	TUMER01	H139,H236	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult + Juvenile	Wild	Europe	Portugal	 	 	 	7	60	Mata et al 2015	 
+9012	TUMER02	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Europe	Portugal	Azores	 	 	 	 	Hellgren et al unpubl 2	 
+9013	TUMER02	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Europe	Portugal	Azores	Sao Miguel	37°42.00000', -025°30.00000'	3	47	Hellgren et al 2011	 
+9014	TUMER02	H234	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult + Juvenile	Wild	Africa	Morocco	 	 	 	4	13	Mata et al 2015	 
+9015	TUMER02	H234	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	 	 	1	60	Mata et al 2015	 
+9016	TUMER03	H140	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	 	 	1	60	Mata et al 2015	 
+9017	TUMER04	H233	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	 	 	1	13	Mata et al 2015	 
+9018	TUMER05	H238	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	 	 	1	13	Mata et al 2015	 
+9019	TUMER06	H273	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Europe	Portugal	 	 	 	1	60	Mata et al 2015	 
+9020	TUMER07	H274	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Europe	Portugal	 	 	 	1	60	Mata et al 2015	 
+9021	TUMER08	H375	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	 	 	1	60	Mata et al 2015	 
+9022	TUMER09	Leucocytozoon dubreuili clone L76.13CB 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus merula	 	Migratory	Unknown	Wild	Europe	Lithuania	 	 	 	 	 	Pacheco et al 2017	 
+9023	TUMIG02	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	 	 	Wild	North America	United States	 	 	 	 	 	Martinsen et al 2007	 
+9024	TUMIG03	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	 	 	Wild	North America	United States	 	 	 	 	 	Martinsen et al 2007	 
+9025	TUMIG03	48	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	 	 	Wild	North America	United States	Missouri	 	 	 	 	Ricklefs & Fallon 2002	 
+9026	TUMIG03	ChP2	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	 	 	Wild	South America	Chile	 	 	 	 	 	Merino et al 2008	 
+9027	TUMIG03	16	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	 	 	Wild	South America	Uruguay	 	 	 	 	 	Durrant et al 2006	 
+9029	TUMIG03	TUMIG03	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	 	 	Wild	South America	Brazil	 	Nova Lima	-19°59.00000', -043°50.00000	1	 	Lacorte et al 2013	 
+9030	TUMIG03	TUMIG03	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	 	 	Wild	South America	Brazil	 	Felixlandia	-18°43.00000', -045°03.00000'	4	 	Lacorte et al 2013	 
+9031	TUMIG03	TUMIG03	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	 	 	Wild	South America	Brazil	 	Bocaiuva	-17°23.00000', -043°53.00000'	1	 	Lacorte et al 2013	 
+9040	TUMIG03	ChP2	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus falcklandii	 	Resident	Unknown	Wild	South America	Chile	 	Robinson Crusoe Island	-33°28.00000', -078°50.00000'	7	8	Martinez et al 2015	 
+9042	TUMIG03	AMRO_CA_ELW_11P	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Unknown	Wild	North America	United States	California	China Creek Park	36°44.00000', -119°29.00000'	1	2	Walther et al 2016a	 
+9043	TUMIG03	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	Resident	Unknown	Wild	South America	Brazil	 	COM	-13°48.00000', -059°41.00000'	 	 	Fecchio et al 2017a	 
+9048	TUMIG03	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Unknown	Unknown	Wild	North America	United States	Michigan	 	 	 	 	Smith et al 2017	 
+9049	TUMIG03	TRJB483	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	Resident	Unknown	Wild	South America	Brazil	Minas Gerais	Juiz de Fora	-21°43.00000', -043°22.00000'	 	 	Tostes et al 2018	 
+9050	TUMIG04	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	 	 	Wild	North America	United States	 	 	 	 	 	Martinsen et al 2007	 
+9051	TUMIG05	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	 	 	Wild	North America	United States	 	 	 	 	 	Martinsen et al 2007	 
+9053	TUMIG06	Par_bird_sp_2	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	 	 	Wild	Unknown	Unknown Country	 	 	 	 	 	Outlaw & Ricklefs 2009	 
+9054	TUMIG06	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Unknown	Unknown	Wild	North America	United States	Michigan	 	 	 	 	Smith et al 2017	 
+9055	TUMIG07	H.AK01,H.AK17	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Unknown	Wild	North America	United States	Alaska	Fairbanks	64°52.00000', -147°44.00000'	 	 	Oakgrove et al 2014	 
+9058	TUMIG08	H.AK02	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Unknown	Wild	North America	United States	Alaska	Fairbanks	64°52.00000', -147°44.00000'	 	 	Oakgrove et al 2014	 
+9062	TUMIG08	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	3	8	Galen et al unpubl	 
+9063	TUMIG08	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway Corkscrew Creek	63°02.32860', -147°00.22320'	1	2	Galen et al unpubl	 
+9064	TUMIG08	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Elliott Highway Mile 99	65°17.33940', -149°17.44980'	3	5	Galen et al unpubl	 
+9065	TUMIG09	L.AK14	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Unknown	Wild	North America	United States	Alaska	Anchorage	61°09.00000', -149°10.00000'	 	 	Oakgrove et al 2014	 
+9066	TUMIG09	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Elliott Highway Mile 99	65°17.33940', -149°17.44980'	1	5	Galen et al unpubl	 
+9067	TUMIG09	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Steese Highway Mile 35.8	65°09.80458', -147°19.27422'	1	9	Galen et al unpubl	 
+9068	TUMIG1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	 	 	Wild	North America	United States	 	 	 	 	 	Perkins & Schall 2002	 
+9069	TUMIG10	H.AK07	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Unknown	Wild	North America	United States	Alaska	Fairbanks	64°52.00000', -147°44.00000'	 	 	Oakgrove et al 2014	 
+9070	TUMIG11	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	2	8	Galen et al unpubl	 
+9071	TUMIG11	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway Corkscrew Creek	63°02.32860', -147°00.22320'	1	2	Galen et al unpubl	 
+9072	TUMIG11	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Steese Highway Mile 35.8	65°09.80458', -147°19.27422'	2	9	Galen et al unpubl	 
+9073	TUMIG11	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Unknown	Unknown	Wild	North America	United States	Michigan	 	 	 	 	Smith et al 2017	 
+9080	TUMIG12	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	1	8	Galen et al unpubl	 
+9082	TUMIG13	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	1	8	Galen et al unpubl	 
+9083	TUMIG14	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Steese Highway Mile 35.8	65°09.80458', -147°19.27422'	1	9	Galen et al unpubl	 
+9084	TUMIG15	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Steese Highway Mile 35.8	65°09.80458', -147°19.27422'	2	9	Galen et al unpubl	 
+9085	TUMIG16	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	1	8	Galen et al unpubl	 
+9086	TUMIG17	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	1	8	Galen et al unpubl	 
+9087	TUMIG18	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Steese Highway Mile 35.8	65°09.80458', -147°19.27422'	1	9	Galen et al unpubl	 
+9088	TUMIG19	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Elliott Highway Mile 99	65°17.33940', -149°17.44980'	1	5	Galen et al unpubl	 
+9089	TUMIG20	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	1	8	Galen et al unpubl	 
+9090	TUMIG21	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Elliott Highway Mile 99	65°17.33940', -149°17.44980'	1	5	Galen et al unpubl	 
+9091	TUOBS01	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus obscurus	 	 	 	Wild	Asia	Russia	 	 	 	 	 	Palinauskas et al unpubl	Russia (Asia)
+9092	TUOLI01	HMA2012	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus olivater	 	Resident	Unknown	Wild	South America	Colombia	 	Sierra Nevada de Santa Marta	10°45.00000', -073°40.00000'	1	1	Gonzales-Quevedo et al 2016	 
+9093	TUPHI01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	 	 	Wild	Europe	Bulgaria	 	 	 	4	5	Dimitrov et al 2010	 
+9096	TUPHI01	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	 	 	Wild	Asia	Russia	Sverdlovskaya Oblast'	Ural Mountains	57°20.00000', 059°49.00000'	2	6	Palinauskas et al 2013	 
+9098	TUPHI01	H034	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Resident	Adult	Wild	Europe	Portugal	 	 	 	1	4	Mata et al 2015	 
+9099	TUPHI02	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	 	 	Wild	Europe	Bulgaria	 	 	 	 	 	Dimitar Dimitrov unpubl	 
+9100	TUPHI04	H275	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Resident	Unknown	Wild	Europe	Portugal	 	 	 	1	4	Mata et al 2015	 
+9101	TUPHI05	H276	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Resident	Unknown	Wild	Europe	Portugal	 	 	 	1	4	Mata et al 2015	 
+9102	TUPHI06	H377	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Resident	Adult	Wild	Europe	Portugal	 	 	 	1	4	Mata et al 2015	 
+9106	TURALB01	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus albicollis	 	Resident	Unknown	Wild	South America	Brazil	 	Madeira28	-09°07.00000', -064°28.00000'	 	 	Fecchio et al 2017a	 
+9107	TURAMA01	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	Resident	Unknown	Wild	South America	Brazil	 	Cerrado	-15°32.00000', -047°33.00000'	 	 	Fecchio et al 2017a	 
+9108	TURAMA03	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus amaurochalinus	 	Resident	Unknown	Wild	South America	Brazil	 	COM	-13°48.00000', -059°41.00000'	 	 	Fecchio et al 2017a	 
+9121	TURDUS1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Europe	Sweden	 	 	 	 	 	Hellgren et al 2007b	 
+9122	TURDUS1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	 	 	Wild	Europe	Sweden	 	 	 	 	 	Waldenström et al 2002	 
+9127	TURDUS1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	 	 	Wild	Europe	Bulgaria	 	 	 	1	5	Dimitrov et al 2010	 
+9164	TURDUS1	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus merula	 	Migratory	Adult	Wild	Europe	Sweden	 	Kvismaren	59°10.00000', 015°25.00000'	1	2	Nilsson et al 2016	 
+9166	TURDUS1	TURDUS1	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus philomelos	 	Migratory	Unknown	Wild	Europe	Germany	 	Mooswald Forest	48º00.00000', 007º51.00000'	3	12	Santiago-Alarcon et al 2016	 
+9180	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Asia	Russia	Kaliningradskaya Oblast'	 	 	 	 	Hellgren et al 2007a	 
+9181	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Europe	Sweden	 	 	 	 	 	Hellgren et al 2007a	 
+9182	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Europe	Lithuania	 	 	 	 	 	Hellgren et al 2007b	 
+9185	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Asia	Russia	Kaliningradskaya Oblast'	 	 	 	 	Valkiunas et al 2008c	 
+9186	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus torquatus	 	 	 	Wild	Europe	Bulgaria	 	 	 	1	1	Dimitrov et al 2010	 
+9188	TURDUS2	TURDUS2	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	 	 	Wild	Asia	Russia	Kaliningradskaya Oblast'	Curonian Spit	55°05.00000', 020°44.00000'	1	 	Valkiunas et al 2013a	 
+9189	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus iliacus	 	 	 	Wild	Asia	Russia	Sverdlovskaya Oblast'	Ural Mountains	57°20.00000', 059°49.00000'	1	4	Palinauskas et al 2013	 
+9190	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus pilaris	 	 	 	Wild	Asia	Russia	Sverdlovskaya Oblast'	Ural Mountains	57°20.00000', 059°49.00000'	3	13	Palinauskas et al 2013	 
+9191	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus rubrocanus	 	Migratory	 	Wild	Asia	China	Gansu	 	 	2	2	Zehtindjiev et al 2013	 
+9195	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Asia	Armenia	 	Artavaz	40°36.60000', 044°34.80000'	5	5	Drovetski et al 2014	 
+9196	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Armenia	 	Artavaz	40°36.60000', 044°34.80000'	15	16	Drovetski et al 2014	 
+9197	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Armenia	 	Fantan	40°22.20000', 044°41.40000'	1	2	Drovetski et al 2014	 
+9198	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Armenia	 	Hankavan	40°37.20000', 044°28.20000'	2	2	Drovetski et al 2014	 
+9199	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Armenia	 	Kaler	39°04.20000', 046°16.20000'	2	3	Drovetski et al 2014	 
+9200	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Armenia	 	Meghri	38°54.00000', 046°14.40000'	2	3	Drovetski et al 2014	 
+9201	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Armenia	 	Stepanavan Dendropark	40°56.40000', 044°28.80000'	2	2	Drovetski et al 2014	 
+9202	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Armenia	 	Zikatar	41°07.80000', 044°55.20000'	5	5	Drovetski et al 2014	 
+9203	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Africa	Morocco	 	Meknes	33°54.00000', -005°33.00000'	1	2	Drovetski et al 2014	 
+9204	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Europe	Portugal	 	Grada	40°18.00000', -008°28.20000'	1	16	Drovetski et al 2014	 
+9205	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Europe	Portugal	 	Mata do Camarido	41°51.60000', -008°51.60000'	1	4	Drovetski et al 2014	 
+9206	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Europe	Portugal	 	Mindelo	41°19.20000', -008°43.80000'	1	9	Drovetski et al 2014	 
+9207	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Europe	Portugal	 	Sendim da Ribeira	41°19.20000', -006°55.20000'	2	3	Drovetski et al 2014	 
+9208	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Russia	Krasnodarskiy Kray	Perevalka	44°03.60000', 040°43.80000'	1	6	Drovetski et al 2014	 
+9209	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Juvenile	Wild	Asia	Russia	Krasnodarskiy Kray	Perevalka	44°03.60000', 040°43.80000'	2	10	Drovetski et al 2014	 
+9210	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Asia	Russia	Krasnodarskiy Kray	Serebryannyi Klyuch	44°12.00000', 040°04.80000'	1	1	Drovetski et al 2014	 
+9211	TURDUS2	turdus 2,HMA-2012 STTA10H	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Unknown	Wild	North America	United States	Alaska	Denali Highway	63°07.00000', -146°33.00000'	 	 	Oakgrove et al 2014	 
+9214	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Unknown	Wild	Europe	Italy	 	 	 	3	73	Martinez-de la Puente et al 2015	in mosquito blood meals
+9215	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Africa	Morocco	 	 	 	1	13	Mata et al 2015	 
+9216	TURDUS2	H029	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult + Juvenile	Wild	Europe	Portugal	 	 	 	5	60	Mata et al 2015	 
+9220	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Migratory	Juvenile	Wild	Europe	Sweden	 	Kvismaren	59°10.00000', 015°25.00000'	1	4	Nilsson et al 2016	 
+9221	TURDUS2	H-TURDUS2,WTTH61H	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Migratory	Unknown	Wild	Europe	Germany	 	Mooswald Forest	48º00.00000', 007º51.00000'	3	21	Santiago-Alarcon et al 2016	 
+9225	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Denali Highway near Seattle Creek	63°19.43100', -148°13.90860'	2	8	Galen et al unpubl	 
+9226	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus migratorius	 	Migratory	Adult	Wild	North America	United States	Alaska	Elliott Highway Mile 99	65°17.33940', -149°17.44980'	1	5	Galen et al unpubl	 
+9227	TURDUS2	 	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus merula	 	Resident	Adult	Wild	Asia	Iran	Zanjan	 	 	2	 	Nourani et al 2018	 
+9229	TURNAU01	 	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus naumanni	 	Migratory	Unknown	Captivity	Asia	Japan	 	Gyotoku Wild Bird Hospital	35°40.10030’, 139°54.94480'	1	3	Inumaru et al 2017	injured and rescued wild birds
+9230	TUROLI01	P_TUROLI01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	São Tomé	 	 	 	 	Loiseau et al 2017	 
+9231	TUROLI02	P_TUROLI02	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	São Tomé	 	 	 	 	Loiseau et al 2017	 
+9232	TUROLI03	P_TUROLI03	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	São Tomé	 	 	 	 	Loiseau et al 2017	 
+9233	TUROLI04	P_TUROLI04	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	São Tomé	 	 	 	 	Loiseau et al 2017	 
+9234	TUROLI05	H_TUROLI05	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	São Tomé	 	 	 	 	Loiseau et al 2017	 
+9235	TUROLI06	L_TUROLI06	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	Príncipe	 	 	 	 	Loiseau et al 2017	 
+9237	TUROLI08	L_TUROLI08	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	Príncipe	 	 	 	 	Loiseau et al 2017	 
+9238	TUROLI09	L_TUROLI09	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	Príncipe	 	 	 	 	Loiseau et al 2017	 
+9239	TUROLI10	L_TUROLI10	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	São Tomé	 	 	 	 	Loiseau et al 2017	 
+9240	TUROLI11	P_TUROLI11	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	São Tomé	 	 	 	 	Loiseau et al 2017	 
+9241	TUROLI12	P_TUROLI12	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus olivaceofuscus	 	Resident	Unknown	Wild	Africa	São Tomé and Príncipe	São Tomé	 	 	 	 	Loiseau et al 2017	 
+9242	TURPAL01	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pallidus	 	Migratory	Unknown	Wild	Asia	Japan	Okinawa	 	 	 	 	Murata et al unpubl	 
+9243	TURPEL01	L_TURPEL01	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus pelios	 	Resident	Unknown	Wild	Africa	Equatorial Guinea	 	Bioko Island	03°30.00000', 008°41.45000'	 	 	Loiseau et al 2017	 
+9244	TURPEL01	L_TURPEL01	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus pelios	 	Resident	Unknown	Wild	Africa	Cameroon	 	 	 	 	 	Loiseau et al 2017	 
+9245	TURPEL02	L_TURPEL02	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus pelios	 	Resident	Unknown	Wild	Africa	Gabon	 	 	 	 	 	Loiseau et al 2017	 
+9246	TURPEL03	P_TURPEL03	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	Resident	Unknown	Wild	Africa	Gabon	 	 	 	 	 	Loiseau et al 2017	 
+9247	TURPEL04	P_TURPEL04	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pelios	 	Resident	Unknown	Wild	Africa	Gabon	 	 	 	 	 	Loiseau et al 2017	 
+9248	TURPIL01	 	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus pilaris	 	Migratory	Juvenile	Wild	Europe	Sweden	 	Kvismaren	59°10.00000', 015°25.00000'	1	2	Nilsson et al 2016	 
+9255	TURUF01	17	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	 	 	Wild	South America	Uruguay	 	 	 	 	 	Durrant et al 2006	 
+9256	TURUF02	TURUF02	Haemoproteus	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	 	 	Wild	South America	Brazil	 	Caratinga	-19°47.00000', -042°08.00000'	1	 	Lacorte et al 2013	 
+9257	TURUF03	TURUF01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	 	 	Wild	South America	Brazil	 	Nova Lima	-19°59.00000', -043°50.00000	1	 	Lacorte et al 2013	 
+9258	TURUF03	TURUF01	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	 	 	Wild	South America	Brazil	 	Caratinga	-19°47.00000', -042°08.00000'	2	 	Lacorte et al 2013	 
+9259	TURUF03	TLSB1107,TRJB10,TRJB27	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus leucomelas	 	Resident	Unknown	Wild	South America	Brazil	Minas Gerais	Juiz de Fora	-21°43.00000', -043°22.00000'	 	 	Tostes et al 2018	 
+9260	TURUF03	TLSB1107,TRJB10,TRJB27	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	Resident	Unknown	Wild	South America	Brazil	Minas Gerais	Juiz de Fora	-21°43.00000', -043°22.00000'	 	 	Tostes et al 2018	 
+9261	TURUF03	TLSB1107,TRJB10,TRJB27	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	Resident	Unknown	Wild	South America	Brazil	Minas Gerais	Juiz de Fora	-21°43.00000', -043°22.00000'	 	 	Tostes et al 2018	 
+9262	TURUF04	TRCA305	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	Resident	Unknown	Wild	South America	Brazil	Minas Gerais	Juiz de Fora	-21°43.00000', -043°22.00000'	 	 	Tostes et al 2018	 
+9297	TUVIS01	H239	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus viscivorus	 	Resident	Juvenile	Wild	Africa	Morocco	 	 	 	1	4	Mata et al 2015	 
+9298	TUVIS02	H240	Leucocytozoon	Passeriformes	Turdidae	Turdus	Turdus viscivorus	 	Resident	Juvenile	Wild	Africa	Morocco	 	 	 	1	4	Mata et al 2015	 
+9384	VOLJAC02	BAFLA03	Plasmodium	Passeriformes	Turdidae	Turdus	Turdus rufiventris	 	 	 	Wild	South America	Brazil	 	Caratinga	-19°47.00000', -042°08.00000'	1	 	Lacorte et al 2013	 
