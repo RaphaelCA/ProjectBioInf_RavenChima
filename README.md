@@ -9,7 +9,7 @@ Program to use data from online data Mal Avi and create phylogenetic trees + som
 ###Purpose: Create a project that extract malaria parasite sequence lineage and host information from MalAvi database and construct phylogenetic trees and vs distribution descriptives *
 
 ### TO RUN THE PROGRAM use clean.sh and then command the master.sh writen inside folder Project_mal_avi
-### Be Sure that each script is authorized to run as a program.
+### Be sure that each script is authorized to run as a program.
 ## Here the individual steps are described. For more detailed description of the steps see the CODE folder of each step. 
 ### STEP 1
 Extract the Data from the MalAvi Database :thumbsup:
