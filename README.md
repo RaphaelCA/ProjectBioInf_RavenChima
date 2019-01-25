@@ -10,7 +10,7 @@ Program to use data from online data Mal Avi and create phylogenetic trees + som
 
 ### TO RUN THE PROGRAM use clean.sh and then command the master.sh writen inside folder Project_mal_avi
 
-## Here the individual steps are described. 
+## Here the individual steps are described. For more detailed description of the steps see the CODE folder of each step. 
 ### STEP 1
 Extract the Data from the MalAvi Database :thumbsup:
 Link 1 #(parasite lineage) 
